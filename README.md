@@ -1,1 +1,2 @@
-# Learning_Agents_v2
+# Learning-Agents-v.2
+# Learning-Agents-v.2
